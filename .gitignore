@@ -55,7 +55,7 @@ venv.bak/
 *.sqlite3
 
 # Chrome DB files
-Phidata/tmp
+Phidata/tmp/*
 
 # All "." files (hidden files)
 .*
@@ -65,3 +65,5 @@ Phidata/tmp
 # OS specific files
 .DS_Store
 Thumbs.db 
+
+**/.vscode/
